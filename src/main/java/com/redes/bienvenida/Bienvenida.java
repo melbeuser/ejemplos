@@ -2,7 +2,7 @@
  * Melissa Blanqueto
  * 27 Ago 2019
  * Programa que muestra un mensaje de bienvenida
- *
+ * Version 1.0.1
  */
 package com.redes.bienvenida;
 
