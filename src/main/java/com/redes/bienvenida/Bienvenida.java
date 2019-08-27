@@ -12,6 +12,6 @@ package com.redes.bienvenida;
  */
 public class Bienvenida {
     public static void main(String[] args) {
-        System.out.println("Bienvenidos a Java");
+        System.out.println("Bienvenidos a Java con version GIT");
     }
 }
