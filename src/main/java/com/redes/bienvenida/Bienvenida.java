@@ -8,7 +8,7 @@ package com.redes.bienvenida;
 
 /**
  *
- * @author melissabe
+ * @author melissa be
  */
 public class Bienvenida {
     public static void main(String[] args) {
